@@ -1,7 +1,7 @@
 # input : name , add to info_name , 
 # display names
 
-print("hello, my name is ziad ahmed fawzy")
+print("hello, user")
 
 num_of_names = input("please enter your number of names : ")
 counter = 0
