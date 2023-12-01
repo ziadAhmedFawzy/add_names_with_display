@@ -1,6 +1,7 @@
-# input , processing , output
+# input : name , add to info_name , 
+# display names
 
-# input : name , add to info_name , search in info_name to get any name
+print("hello, my name is ziad")
 
 num_of_names = input("please enter your number of names : ")
 counter = 0
